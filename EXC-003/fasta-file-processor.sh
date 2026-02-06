@@ -1,0 +1,1 @@
+num_seq=$(grep ">" "$1" | wc -l)
