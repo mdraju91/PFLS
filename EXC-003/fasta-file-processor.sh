@@ -2,8 +2,7 @@
 
 echo "FASTA File Statistics:"
 echo "----------------------"
-num_seq=$(grep ">" "$1" | wc -l)
-echo "Number of sequences: $num_seq"
+echo "Number of sequences: o"
 echo "Total length of sequences: 0"
 echo "Length of the longest sequence: 0"
 echo "Length of the shortest sequence: 0"
